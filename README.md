@@ -1,0 +1,2 @@
+# smt-logo
+smt-logo
